@@ -1,0 +1,9 @@
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.dll.mdb
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/bin/Debug/RaysHotDogs.Core.dll
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.dll
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/obj/Debug/RaysHotDogs.Core.dll.mdb
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.dll
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/Shruti/Desktop/Shruti/Mobile Apps/RaysHotDogs/RaysHotDogs.Core/bin/Debug/Newtonsoft.Json.dll

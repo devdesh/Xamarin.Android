@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="RaysHotDogs/RaysHotDogs.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RaysHotDogs/MainViewActivity.cs">
+    <Files>
+      <File FileName="RaysHotDogs/HotDogMenuActivity.cs" Line="72" Column="6" />
+      <File FileName="RaysHotDogs/MainViewActivity.cs" Line="9" Column="18" />
+      <File FileName="RaysHotDogs.Core/HotDogRepository.cs" Line="85" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RaysHotDogs AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Test" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
